@@ -1,0 +1,1 @@
+Esta carpeta contiene todos los modulos graficos usados en los proyectos desarrollados en Python.
